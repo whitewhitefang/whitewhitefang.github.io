@@ -1,7 +1,5 @@
 # Igor Belozub
 
-___
-
 ## Contacts
 
 E-mail: [igor_belozub@yahoo.com](mailto:igor_belozub@yahoo.com)
@@ -20,14 +18,10 @@ GitHub: [github.com/whitewhitefang](https://github.com/whitewhitefang)
 
 LinkedIn: [www.linkedin.com/in/igor-belozub/](https://www.linkedin.com/in/igor-belozub/)
 
-___
-
 ## About me
 
 My short-term goals are improving JS, design and other front' skills, more practice, studying Ruby and RoR, getting a job.
 My long-term goal is achieving full-stack possibilities.
-
-___
 
 ## Skills
 
@@ -58,8 +52,6 @@ ___
 - VSC
 - Sublime Text
 
-___
-
 ## Education
 
 - 1999 Far-Eastern State University, bachelor degree (journalism, diploma work "Internet as a mass media")\
@@ -70,8 +62,6 @@ ___
 - Russian (native)
 - English (B2)
 - Ukrainian (basic)
-
-___
 
 ## Portfolio
 
@@ -116,8 +106,6 @@ ___
     site: [whitewhitefang.github.io/PigGame](https://whitewhitefang.github.io/PigGame/)
 
     repo: [github.com/whitewhitefang/PigGame](https://github.com/whitewhitefang/PigGame)
-
-___
 
 ## Code example
 
