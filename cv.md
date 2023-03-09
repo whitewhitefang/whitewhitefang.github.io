@@ -1,7 +1,5 @@
 # Igor Belozub &#8195;
 
-&#8195;
-&#8195;
 ___
 
 ## Contacts
@@ -22,8 +20,6 @@ GitHub: [github.com/whitewhitefang](https://github.com/whitewhitefang)
 
 LinkedIn: [www.linkedin.com/in/igor-belozub/](https://www.linkedin.com/in/igor-belozub/)
 
-&#8195;
-&#8195;
 ___
 
 ## About me
@@ -31,8 +27,6 @@ ___
 My short-term goals are improving JS, design and other front' skills, more practice, studying Ruby and RoR, getting a job.
 My long-term goal is achieving full-stack possibilities.
 
-&#8195;
-&#8195;
 ___
 
 ## Skills
@@ -74,8 +68,6 @@ ___
 - VSC
 - Sublime Text
 
-&#8195;
-&#8195;
 ___
 
 ## Education
@@ -89,8 +81,6 @@ ___
 - English (B2)
 - Ukrainian (basic)
 
-&#8195;
-&#8195;
 ___
 
 ## Portfolio
@@ -137,8 +127,6 @@ ___
 
     repo: [github.com/whitewhitefang/PigGame](https://github.com/whitewhitefang/PigGame)
 
-&#8195;
-&#8195;
 ___
 
 ## Code example
