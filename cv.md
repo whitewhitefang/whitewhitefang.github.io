@@ -1,4 +1,4 @@
-# Igor Belozub &#8195;
+# Igor Belozub
 
 ___
 
@@ -31,36 +31,26 @@ ___
 
 ## Skills
 
-:::row:::
-    :::column:::
-        - HTML
-        - CSS
-        - SCSS/SASS
-        - Bootstrap
-        - JavaScript
-    :::column-end:::
-    :::column:::
-        - React
-        - Node
-        - Express
-        - Redux
-        - Pug
-    :::column-end:::
-    :::column:::
-        - SQL (PostgreSQL, MySQL)
-        - Microsoft Azure Cloud
-        - Postman
-        - Figma
-        - Photoshop
-    :::column-end:::
-    :::column:::
-        - PHP (in process)
-        - Ruby (in process)
-        - Ruby-on-Rails (in process)
-        - WordPress
-        - MongoDB
-    :::column-end:::
-:::row-end:::
+- HTML
+- CSS
+- SCSS/SASS
+- Bootstrap
+- JavaScript
+- React
+- Node
+- Express
+- Redux
+- Pug
+- SQL (PostgreSQL, MySQL)
+- Microsoft Azure Cloud
+- Postman
+- Figma
+- Photoshop
+- PHP (in process)
+- Ruby (in process)
+- Ruby-on-Rails (in process)
+- WordPress
+- MongoDB
 
 #### Preferred editors
 
@@ -140,5 +130,4 @@ function boolToWord(bool) {
   return "No";
 
 }
-
 ```
