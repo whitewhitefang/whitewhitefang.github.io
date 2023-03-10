@@ -1,5 +1,7 @@
 # Igor Belozub
 
+![Igor Belozub](ib.jpeg)
+
 ## Contacts
 
 E-mail: [igor_belozub@yahoo.com](mailto:igor_belozub@yahoo.com)
@@ -20,31 +22,36 @@ LinkedIn: [www.linkedin.com/in/igor-belozub/](https://www.linkedin.com/in/igor-b
 
 ## About me
 
-My short-term goals are improving JS, design and other front' skills, more practice, studying Ruby and RoR, getting a job.
-My long-term goal is achieving full-stack possibilities.
+I'm a self-studied programmer with a huge journalist's background. So I'm a good analyst, multitasker and attentive to details as well. My short-term goals are to improve front skills, to get practice, to study Ruby, to freelance, to get a job. The long-term goal is to achieve full-stack proficiency.
 
 ## Skills
 
-- HTML
-- CSS
-- SCSS/SASS
-- Bootstrap
-- JavaScript
-- React
-- Node
-- Express
-- Redux
-- Pug
-- SQL (PostgreSQL, MySQL)
-- Microsoft Azure Cloud
-- Postman
-- Figma
-- Photoshop
-- PHP (in process)
-- Ruby (in process)
-- Ruby-on-Rails (in process)
-- WordPress
-- MongoDB
+:::row:::
+    :::column:::
+        - HTML
+        - CSS
+        - SCSS/SASS
+        - Bootstrap
+        - JavaScript
+        - React
+        - Node
+        - Express
+        - Redux
+        - Pug
+    :::column-end:::
+    :::column:::
+        - SQL (PostgreSQL, MySQL)
+        - Microsoft Azure Cloud
+        - Postman
+        - Figma
+        - Photoshop
+        - PHP (in process)
+        - Ruby (in process)
+        - Ruby-on-Rails (in process)
+        - WordPress
+        - MongoDB
+    :::column-end:::
+:::row-end:::
 
 #### Preferred editors
 
@@ -54,7 +61,8 @@ My long-term goal is achieving full-stack possibilities.
 
 ## Education
 
-- 1999 Far-Eastern State University, bachelor degree (journalism, diploma work "Internet as a mass media")\
+- 1999 Far-Eastern State University, bachelor degree (journalism, diploma work "Internet as a mass media")
+- 2008-2010 Intensive English language courses (Toronto, New-York)
 - 2021 Microsoft Azure cloud architect course
 
 #### Languages
@@ -65,25 +73,25 @@ My long-term goal is achieving full-stack possibilities.
 
 ## Portfolio
 
-- An app with interactive cards for learning. React, json-server
+- An app with interactive cards for learning. React, json-server.
 
     site: [learnjsnow.netlify.app](https://learnjsnow.netlify.app/)
 
     repo: [github.com/whitewhitefang/learn-js](https://github.com/whitewhitefang/learn-js/)
 
-- A weather app with a few APIs and average output, simple geolocating and searching, wave height and water temperature available
+- A weather app with a few APIs and average output, simple geolocating and searching, wave height and water temperature available.
 
     site: [whitewhitefang.github.io/all-weather-app-proto](https://whitewhitefang.github.io/all-weather-app-proto/)
 
     repo: [github.com/whitewhitefang/all-weather-app-proto](https://github.com/whitewhitefang/all-weather-app-proto)
 
-- Static recipe app with searching, getting nutrition info, adding ingredients to shopping list etc. HTML, SCSS, vanilla JS, Parcel, Netlify
+- Static recipe app with searching, getting nutrition info, adding ingredients to shopping list etc. HTML, SCSS, vanilla JS, Parcel, Netlify.
 
     site: [forkifywithaddons.netlify.app](https://forkifywithaddons.netlify.app/)
 
     repo: [github.com/whitewhitefang/forkifyApp/tree/forkify_with_addons](https://github.com/whitewhitefang/forkifyApp/tree/forkify_with_addons)
 
-- Bank landing page, vanilla JS, cookies, some animation
+- Bank landing page, vanilla JS, cookies, some animation.
 
     site: [whitewhitefang.github.io/BankistLandingPage](https://whitewhitefang.github.io/BankistLandingPage/)
 
