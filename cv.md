@@ -26,32 +26,11 @@ I'm a self-studied programmer with a huge journalist's background. So I'm a good
 
 ## Skills
 
-:::row:::
-    :::column:::
-        - HTML
-        - CSS
-        - SCSS/SASS
-        - Bootstrap
-        - JavaScript
-        - React
-        - Node
-        - Express
-        - Redux
-        - Pug
-    :::column-end:::
-    :::column:::
-        - SQL (PostgreSQL, MySQL)
-        - Microsoft Azure Cloud
-        - Postman
-        - Figma
-        - Photoshop
-        - PHP (in process)
-        - Ruby (in process)
-        - Ruby-on-Rails (in process)
-        - WordPress
-        - MongoDB
-    :::column-end:::
-:::row-end:::
+- HTML, CSS, SCSS/SASS, Bootstrap
+- JavaScript, React, Node, Express, Redux
+- SQL (PostgreSQL, MySQL), MongoDB
+- PHP (in process), Ruby (in process), Ruby-on-Rails (in process), WordPress
+- Microsoft Azure Cloud, Postman, Figma, Photoshop
 
 #### Preferred editors
 
