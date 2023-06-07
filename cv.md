@@ -26,7 +26,7 @@ I'm a self-studied programmer with a huge journalist's background. So I'm a good
 
 ## Experience
 
-1/2 year, american consulting company as a full-stack developer (RoR, MySQL)
+1/2 year, american consulting company, full-stack developer (RoR, MySQL)
 
 ## Skills
 
