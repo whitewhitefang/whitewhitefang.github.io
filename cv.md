@@ -24,12 +24,16 @@ LinkedIn: [www.linkedin.com/in/igor-belozub/](https://www.linkedin.com/in/igor-b
 
 I'm a self-studied programmer with a huge journalist's background. So I'm a good analyst, multitasker and attentive to details as well. My short-term goals are to improve front skills, to get practice, to study Ruby, to freelance, to get a job. The long-term goal is to achieve full-stack proficiency.
 
+## Experience
+
+1/2 year, american consulting company as a full-stack developer (RoR, MySQL)
+
 ## Skills
 
 - HTML, CSS, SCSS/SASS, Bootstrap
 - JavaScript, React, Node, Express, Redux
 - SQL (PostgreSQL, MySQL), MongoDB
-- PHP (in process), Ruby (in process), Ruby-on-Rails (in process), WordPress
+- Ruby, Ruby-on-Rails (in process), PHP (some), WordPress
 - Microsoft Azure Cloud, Postman, Figma, Photoshop
 
 #### Preferred editors
